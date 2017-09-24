@@ -1,0 +1,27 @@
+﻿  OSlab2.cpp
+c:\users\saveu\documents\visual studio 2017\projects\oslab2_c++_ui\oslab2_c++_ui\OSlab2.h(312): warning C4018: '<': signed/unsigned mismatch
+c:\users\saveu\documents\visual studio 2017\projects\oslab2_c++_ui\oslab2_c++_ui\OSlab2.h(318): warning C4018: '<': signed/unsigned mismatch
+c:\users\saveu\documents\visual studio 2017\projects\oslab2_c++_ui\oslab2_c++_ui\OSlab2.h(330): warning C4018: '<': signed/unsigned mismatch
+c:\users\saveu\documents\visual studio 2017\projects\oslab2_c++_ui\oslab2_c++_ui\OSlab2.h(334): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\string.h(93): note: see declaration of 'strcat'
+c:\users\saveu\documents\visual studio 2017\projects\oslab2_c++_ui\oslab2_c++_ui\OSlab2.h(335): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\string.h(93): note: see declaration of 'strcat'
+c:\users\saveu\documents\visual studio 2017\projects\oslab2_c++_ui\oslab2_c++_ui\OSlab2.h(336): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\string.h(93): note: see declaration of 'strcat'
+c:\users\saveu\documents\visual studio 2017\projects\oslab2_c++_ui\oslab2_c++_ui\OSlab2.h(337): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\string.h(93): note: see declaration of 'strcat'
+c:\users\saveu\documents\visual studio 2017\projects\oslab2_c++_ui\oslab2_c++_ui\OSlab2.h(338): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\string.h(93): note: see declaration of 'strcat'
+c:\users\saveu\documents\visual studio 2017\projects\oslab2_c++_ui\oslab2_c++_ui\OSlab2.h(339): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\string.h(93): note: see declaration of 'strcat'
+c:\users\saveu\documents\visual studio 2017\projects\oslab2_c++_ui\oslab2_c++_ui\OSlab2.h(340): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\string.h(93): note: see declaration of 'strcat'
+c:\users\saveu\documents\visual studio 2017\projects\oslab2_c++_ui\oslab2_c++_ui\OSlab2.h(341): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\string.h(93): note: see declaration of 'strcat'
+c:\users\saveu\documents\visual studio 2017\projects\oslab2_c++_ui\oslab2_c++_ui\OSlab2.h(343): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\string.h(93): note: see declaration of 'strcat'
+c:\users\saveu\documents\visual studio 2017\projects\oslab2_c++_ui\oslab2_c++_ui\OSlab2.h(344): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\string.h(93): note: see declaration of 'strcat'
+c:\users\saveu\documents\visual studio 2017\projects\oslab2_c++_ui\oslab2_c++_ui\OSlab2.h(346): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdlib.h(931): note: see declaration of 'mbstowcs'
+  OSlab2_C++_UI.vcxproj -> C:\Users\saveu\Documents\Visual Studio 2017\Projects\OSlab2_C++_UI\Debug\OSlab2_C++_UI.exe

@@ -1,0 +1,5 @@
+﻿  TabulationFunc.cpp
+c:\users\saveu\documents\visual studio 2017\projects\oslab2_c_console\oslab2_c_console\tabulationfunc.cpp(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\saveu\documents\visual studio 2017\projects\oslab2_c_console\oslab2_c_console\tabulationfunc.cpp(28): warning C4018: '<': signed/unsigned mismatch
+  OSlab2_C_Console.vcxproj -> C:\Users\saveu\Documents\Visual Studio 2017\Projects\OSlab2_C_Console\Debug\OSlab2_C_Console.exe
+  OSlab2_C_Console.vcxproj -> C:\Users\saveu\Documents\Visual Studio 2017\Projects\OSlab2_C_Console\Debug\OSlab2_C_Console.pdb (Partial PDB)
