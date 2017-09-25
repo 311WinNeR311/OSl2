@@ -62,5 +62,6 @@ int main(int argc, char *argv[]) {
 	fout.open("Performance.txt", ios_base::app);
 	fout << GetCounter() << "\n";
 	fout.close();
+	cout << GetCounter() << "\n";
 	return 0;
 }

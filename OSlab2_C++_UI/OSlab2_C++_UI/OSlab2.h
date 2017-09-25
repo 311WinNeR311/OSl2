@@ -119,7 +119,7 @@ namespace OSlab2_C_UI {
 			// 
 			this->comboBox1->DropDownStyle = System::Windows::Forms::ComboBoxStyle::DropDownList;
 			this->comboBox1->FormattingEnabled = true;
-			this->comboBox1->Items->AddRange(gcnew cli::array< System::Object^  >(3) { L"2", L"4", L"8" });
+			this->comboBox1->Items->AddRange(gcnew cli::array< System::Object^  >(4) { L"1", L"2", L"4", L"8" });
 			this->comboBox1->Location = System::Drawing::Point(217, 9);
 			this->comboBox1->Name = L"comboBox1";
 			this->comboBox1->Size = System::Drawing::Size(242, 24);
@@ -404,7 +404,7 @@ namespace OSlab2_C_UI {
 	System::Void button1_Click(System::Object^  sender, System::EventArgs^  e) {
 		int iCountP = int::Parse(this->comboBox1->SelectedItem->ToString());
 		iLastTab = this->comboBox1->SelectedIndex;
-		int n = 5000;
+		int n = 15;
 
 		for (size_t i = 0; i < iCountP; ++i)
 		{
